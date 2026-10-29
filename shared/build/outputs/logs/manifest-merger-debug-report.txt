@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml:2:13-83
+INJECTED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml:2:13-83
+	package
+		INJECTED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml
+	xmlns:android
+		ADDED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml:2:23-81
+uses-sdk
+INJECTED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml reason: use-sdk injection requested
+INJECTED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml
+INJECTED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml
+	android:targetSdkVersion
+		INJECTED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml
+	android:minSdkVersion
+		INJECTED from /opt/goinfre/kindlyfr/Projects/ConductorGame/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest93710089814299214.xml
